@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mom</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="blood_group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string name="title_activity_p_log">p_log</string>
+</resources>
